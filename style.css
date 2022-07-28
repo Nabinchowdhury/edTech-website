@@ -49,3 +49,17 @@
 .elearning-bg {
     background-color: #F4FAFD;
 }
+
+.c-posl {
+    position: absolute;
+    left: -20px;
+
+    bottom: 120px;
+}
+
+.c-posr {
+    position: absolute;
+    right: -20px;
+
+    bottom: 120px;
+}
