@@ -1,4 +1,4 @@
-.nv-bg {
+.nv-bg1 {
     background-image: url(images/cover/cover-1.png);
     background-repeat: none;
     background-size: cover;
@@ -7,7 +7,33 @@
     width: 100%;
     position: relative;
 
+
 }
+
+.nv-bg2 {
+    background-image: url(images/cover/cover-2.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    width: 100%;
+    position: relative;
+
+
+}
+
+.nv-bg3 {
+    background-image: url(images/cover/cover-3.jpg);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    width: 100%;
+    position: relative;
+
+
+}
+
 
 
 
@@ -17,5 +43,5 @@
     height: 100%;
     opacity: .7;
 
-    /* z-index: 1; */
+
 }
