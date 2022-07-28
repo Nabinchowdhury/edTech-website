@@ -1,0 +1,21 @@
+.nv-bg {
+    background-image: url(images/cover/cover-1.png);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    width: 100%;
+    position: relative;
+
+}
+
+
+
+.overlay {
+    background-color: rgb(25, 23, 23);
+    width: 100%;
+    height: 100%;
+    opacity: .7;
+
+    /* z-index: 1; */
+}
